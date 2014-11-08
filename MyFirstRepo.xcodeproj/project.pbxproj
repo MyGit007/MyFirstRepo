@@ -14,6 +14,7 @@
 		A901439C1A0DE25100FC18C5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A901439B1A0DE25100FC18C5 /* Images.xcassets */; };
 		A901439F1A0DE25100FC18C5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A901439D1A0DE25100FC18C5 /* LaunchScreen.xib */; };
 		A90143AB1A0DE25100FC18C5 /* MyFirstRepoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A90143AA1A0DE25100FC18C5 /* MyFirstRepoTests.m */; };
+		A90143B61A0DE38E00FC18C5 /* CETest.m in Sources */ = {isa = PBXBuildFile; fileRef = A90143B51A0DE38E00FC18C5 /* CETest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		A90143A41A0DE25100FC18C5 /* MyFirstRepoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstRepoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A90143A91A0DE25100FC18C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A90143AA1A0DE25100FC18C5 /* MyFirstRepoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyFirstRepoTests.m; sourceTree = "<group>"; };
+		A90143B41A0DE38E00FC18C5 /* CETest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CETest.h; sourceTree = "<group>"; };
+		A90143B51A0DE38E00FC18C5 /* CETest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CETest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				A90143931A0DE25100FC18C5 /* AppDelegate.m */,
 				A90143951A0DE25100FC18C5 /* ViewController.h */,
 				A90143961A0DE25100FC18C5 /* ViewController.m */,
+				A90143B41A0DE38E00FC18C5 /* CETest.h */,
+				A90143B51A0DE38E00FC18C5 /* CETest.m */,
 				A90143981A0DE25100FC18C5 /* Main.storyboard */,
 				A901439B1A0DE25100FC18C5 /* Images.xcassets */,
 				A901439D1A0DE25100FC18C5 /* LaunchScreen.xib */,
@@ -222,6 +227,7 @@
 				A90143971A0DE25100FC18C5 /* ViewController.m in Sources */,
 				A90143941A0DE25100FC18C5 /* AppDelegate.m in Sources */,
 				A90143911A0DE25100FC18C5 /* main.m in Sources */,
+				A90143B61A0DE38E00FC18C5 /* CETest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
